@@ -1,3 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SpeedySion/CovidDashboard/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SpeedySion/CovidDashboard/tree/main)
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/SpeedySion/CovidDashboard/HEAD
+ :target: https://mybinder.org/v2/gh/SpeedySion/CovidDashboard/tree/main
