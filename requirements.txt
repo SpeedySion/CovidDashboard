@@ -1,0 +1,12 @@
+ipywidgets
+pandas
+numpy
+matplotlib.pyplot
+requests
+time
+json
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
