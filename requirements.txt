@@ -1,7 +1,7 @@
 ipywidgets
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 requests
 time
 json
